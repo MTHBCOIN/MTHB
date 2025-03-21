@@ -1,8 +1,8 @@
-# MTHB - Fiat-Backed Digital Token on the Blockchain
+# MTHB - MTHB, Token For Web3 Technology
 
-USDDWIN is a secure, decentralized, and fiat-backed cryptocurrency designed to facilitate seamless financial transactions. It leverages the Binance blockchain to provide a stable, fast, and reliable alternative for exchanging value in a digitally transformative financial ecosystem.
+MTHB Coin, The token stable on MGP platforms. there's a real USDT backing it up, Use MTHB as an ecosystem such as NFTs, Web3 staking, Marketplace platform, Debit card, Payment gateway, Decentralized exchange and more.
+
 # 🔐 Company
-
 MTHB Coin, The token stable on MGP platforms. there's a real USDT backing it up, Use MTHB as an ecosystem such as NFTs, Web3 staking, Marketplace platform, Debit card, Payment gateway, Decentralized exchange and more.
 
 # 💰 Key Features
